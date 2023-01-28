@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Jiménez
-- 👀 I’m interested in in learning from the computer world, especially in development and cybersecurity
-- 🌱 I 'm currently learning Java programming and basic concepts of Cybersecurity, since I am currently studying the higher degree of cybersecurity
+- 👀 I’m interested in in learning from the computer world, especially in IT systems and cybersecurity
+- 🌱 I 'm currently learning Python programming and Cybersecurity, since I am currently studying the higher degree of IT Systems with speciality in cybersecurity
 - 💞️ I’m looking to collaborate on a project where I can learn as much as possible
 - 📫 How to reach me on Linkedin, the URL is as follows: https://www.linkedin.com/in/jose-jim%C3%A9nez-hidalgo-01622918a/
 
